@@ -1,7 +1,7 @@
 name: WaterDamage
 version: 1.0.0
 main: me.watermanmc.waterdamage.Plugin
-api-version: "1.16.5"
+api-version: "1.17.1"
 author: [WatermanMC]
 description: A plugin that adds fall damage in liquids
 commands:
