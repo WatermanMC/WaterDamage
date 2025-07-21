@@ -1,0 +1,16 @@
+name: WaterDamage
+version: 1.0.0
+main: me.watermanmc.waterdamage.Plugin
+api-version: "1.16.5"
+author: [WatermanMC]
+description: A plugin that adds fall damage in liquids
+commands:
+  waterdamagereload:
+    description: Reloads the WaterDamage plugin configuration.
+    usage: /waterdamagereload
+    permission: waterdamage.reload
+    permission-message: You do not have permission to use this command.
+permissions:
+  waterdamage.reload:
+    description: Allows reloading the WaterDamage plugin config.
+    default: op
