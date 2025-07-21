@@ -1,0 +1,4 @@
+command:
+  reload-success: "&aWaterDamage config reloaded!"
+  feature-disabled-note: "&eFeature is currently disabled in config.yml!"
+  no-permission: "&cYou don't have permission to use this command."
